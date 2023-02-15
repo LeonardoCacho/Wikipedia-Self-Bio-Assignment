@@ -7,6 +7,6 @@ Made by Leonardo Cacho on 2/14/2023
 * Early life
 * Career
 ## link to Github Pages site
-
+https://github.com/LeonardoCacho
 ## image
-![Uploading image.png…]()
+![picture](webpage.png)
