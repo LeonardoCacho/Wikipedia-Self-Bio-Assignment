@@ -2,11 +2,8 @@
 
 Made by Leonardo Cacho on 2/14/2023
 
-## Categories
-* Introduction
-* Early life
-* Career
-## link to Github Pages site
+## Link to Github Pages site
 https://github.com/LeonardoCacho
-## image
-![picture](/webpage.png)
+
+## Image
+![webpage](https://user-images.githubusercontent.com/122933470/218945272-1a7c1ba6-1a1d-4f02-abc9-f0ee72751d04.PNG)
