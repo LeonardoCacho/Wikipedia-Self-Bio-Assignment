@@ -9,4 +9,4 @@ Made by Leonardo Cacho on 2/14/2023
 ## link to Github Pages site
 https://github.com/LeonardoCacho
 ## image
-![picture](webpage.png)
+![picture](/webpage.png)
